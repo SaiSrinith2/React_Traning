@@ -39,7 +39,7 @@ function App()
     <div className='mt-5 container'>
       <div className='card'>
         <div className='card-header'>
-          My Action Plan
+          My Action Plan Ready
         </div>
         <div className='card-body'>
           <TodoTable todos={todos} deleteTodo={deleteTodo}/>
